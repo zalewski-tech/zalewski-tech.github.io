@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
 # Mariusz Zalewski
 
 I'm here to help you build Cloud Computing infrastructure as code.
