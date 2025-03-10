@@ -4,4 +4,4 @@ I specialize in building Cloud Computing infrastructure as code on Amazon Web Se
 
 Feel free to reach out to me via:
 * [Email](mailto:mariusz@zalewski.tech)
-* [LinkedIn](https://www.linkedin.com/in/mariusz-zalewski/)
+* [LinkedIn](https://www.linkedin.com/in/mariuszzalewski/)
