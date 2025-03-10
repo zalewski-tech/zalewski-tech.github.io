@@ -1,10 +1,7 @@
-<link rel="stylesheet" type="text/css" href="style.css">
-
 # Mariusz Zalewski
 
-I'm here to help you build Cloud Computing infrastructure as code.
-Amazon Web Services, Microsoft Azure or Google Cloud.
+I specialize in building Cloud Computing infrastructure as code on Amazon Web Services, Microsoft Azure, and Google Cloud.
 
-You can contact me via:
+Feel free to reach out to me via:
 * [Email](mailto:mariusz@zalewski.tech)
 * [LinkedIn](https://www.linkedin.com/in/mariusz-zalewski/)
