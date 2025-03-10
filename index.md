@@ -1,4 +1,4 @@
-# Mariusz Zalewski - zalewski.tech
+# Mariusz Zalewski
 
 I'm here to help you build Cloud Computing infrastructure as code.
 Amazon Web Services, Microsoft Azure or Google Cloud.
